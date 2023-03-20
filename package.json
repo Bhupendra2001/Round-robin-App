@@ -1,0 +1,31 @@
+{
+  "name": "round-robing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "roundRobing.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhupendra2001/round-robing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhupendra2001/round-robing/issues"
+  },
+  "homepage": "https://github.com/Bhupendra2001/round-robing#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "nodemon": "^2.0.21",
+    "yargs": "^17.7.1"
+  },
+  "devDependencies": {
+    "inquirer": "^9.1.5"
+  },
+  "type": "module"
+}
